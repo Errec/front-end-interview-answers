@@ -17,7 +17,7 @@ This file contains my personal(some research included in 'personal') answers to 
 
 * What did you learn yesterday/this week?
 
-   Object.create is a constructor pattern created by Douglas Crockford to offer a less "obscured" method than the 'new Object'*
+   *Object.create is a constructor pattern created by Douglas Crockford to offer a less "obscured" method than the 'new Object'*
 
 #### HTML Questions:
 
@@ -26,6 +26,10 @@ This file contains my personal(some research included in 'personal') answers to 
 #### CSS Questions:
 
 * What is the difference between classes and IDs in CSS?
+
+   *1 - Class uses a period(.) followed by the name of the class, can be used on a group of elements with common attributes*
+   
+   *2 - ID uses the hash(#) followed by the name of the ID, should be unique and it's more specificic than classes(overrides the same attributes setted by classes of that element)*
 
 #### JS Questions:
 
