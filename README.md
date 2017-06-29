@@ -23,6 +23,8 @@ This file contains my personal(some research included in 'personal') answers to 
 
 * What does a `doctype` do?
 
+   *Doctype is a required declaration to inform the brower the HTML version used in the page, also required for legacy reasons.*
+
 #### CSS Questions:
 
 * What is the difference between classes and IDs in CSS?
