@@ -55,3 +55,4 @@ This file contains my personal(some research included in 'personal') answers to 
 ```javascript
 var foo = 10 + '20';
 ```
+   *Due to JS internal type coercion rules, the result is the string "1020"*
