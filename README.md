@@ -37,6 +37,8 @@ This file contains my personal(some research included in 'personal') answers to 
 
 * Explain event delegation
 
+   *A pattern used to assign an event handler to the parent or a common ancestor of the elements. Is commonly used to avoid batch assignments.*
+
 #### Testing Questions:
 
 * What are some advantages/disadvantages to testing your code?
