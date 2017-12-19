@@ -47,6 +47,8 @@ This file contains my personal(some research included in 'personal') answers to 
 
 * What tools would you use to find a performance bug in your code?
 
+   *Chrome Devtools Timeline with the paint flashing option on*
+
 #### Network Questions:
 
 * Traditionally, why has it been better to serve site assets from multiple domains?
