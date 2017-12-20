@@ -53,6 +53,8 @@ This file contains my personal(some research included in 'personal') answers to 
 
 * Traditionally, why has it been better to serve site assets from multiple domains?
 
+   *HTTP1.1 can't handle multiplexing, only one request can be outstanding on a connection at a time using the current protocol. One workaround is to use multiple source domains.*
+
 #### Coding Questions:
 
 *Question: What is the value of `foo`?*
