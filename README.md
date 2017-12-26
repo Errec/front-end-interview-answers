@@ -18,6 +18,10 @@ This file contains my personal(some research included in 'personal') answers to 
 * What did you learn yesterday/this week?
 
    *Object.create is a constructor pattern created by Douglas Crockford to offer a less "obscured" method than the 'new Object'.*
+   
+* What excites or interests you about coding?
+
+   *The infinite possibilities, the power of creation.*
 
 #### HTML Questions:
 
