@@ -29,6 +29,14 @@ This file contains my personal(some research included in 'personal') answers to 
 
    *Doctype is a required declaration to inform the brower the HTML version used in the page, also required for legacy reasons.*
 
+* What's the difference between full standards mode, almost standards mode and quirks mode?
+
+   *It's possible to define through the 'doctype' declaration in wich mode the template engine will operate:*
+      
+      1 - Full standard mode: the behavior described by the current HTML and CSS specifications
+      2 - Almost standards mode: includes some quirks implementation
+      3 - Layout emulates nonstandard behavior, its used for legacy
+
 #### CSS Questions:
 
 * What is the difference between classes and IDs in CSS?
